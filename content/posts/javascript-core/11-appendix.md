@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 核心入门 · 附录：ES2015+ 速查"
 description: "现代 JavaScript 高频语法一页速查：解构、展开、可选链、空值合并、结构化克隆等，附学习资源。"
-publishDate: 2026-08-11T09:00:00
+publishDate: 2026-07-30T09:00:00
 tags: ["javascript", "教程"]
 ---
 

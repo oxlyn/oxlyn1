@@ -1,7 +1,7 @@
 ---
 title: "TypeScript 核心入门 · 附录：类型速查"
 description: "TypeScript 高频语法一页速查：标注、收窄、泛型、工具类型、断言，附学习资源与站内延伸。"
-publishDate: 2026-08-23T09:00:00
+publishDate: 2026-08-11T09:00:00
 tags: ["typescript", "教程"]
 ---
 
