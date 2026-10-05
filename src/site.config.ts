@@ -11,7 +11,7 @@ export const siteConfig: SiteConfig = {
 	*/
 	title: "我的博客",
 	// Used as both a meta property (src/components/BaseHead.astro L:31 + L:49) & the generated satori png (src/pages/og-image/[slug].png.ts)
-	author: "Lin",
+	author: "Oxlyn",
 	// Used as the default description meta property and webmanifest description
 	description: "一个基于 Astro Cactus 主题的静态博客",
 	// HTML lang property, found in src/layouts/Base.astro L:18 & astro.config.ts L:48
