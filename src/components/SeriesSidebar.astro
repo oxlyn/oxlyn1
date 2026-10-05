@@ -1,0 +1,86 @@
+---
+// 系列侧边目录：用父目录自动识别系列，按文件名列序排序，当前篇高亮，底部带上下篇导航。
+// 附加页内目录（generateToc），避免长文丢失锚点导航。
+// 用法：<SeriesSidebar seriesSlug={getSeriesSlug(post.id)} currentId={post.id} headings={headings} />
+interface Props {
+	seriesSlug: string;
+	currentId: string;
+	headings: MarkdownHeading[];
+}
+import type { MarkdownHeading } from "astro";
+
+import TOCHeading from "@/components/blog/TOCHeading.astro";
+import { generateToc } from "@/utils/generateToc";
+import { getSeriesPosts, seriesTitle } from "@/utils/series";
+
+const { seriesSlug, currentId, headings } = Astro.props;
+
+const posts = await getSeriesPosts(seriesSlug);
+const title = seriesTitle(posts, seriesSlug);
+
+// 列表项只显示章节标题，剥掉重复的系列前缀
+// "从 0 开始实现一个 Coding Agent · 第 3 章：流式输出" → "第 3 章：流式输出"
+// "从 0 开始实现一个 Coding Agent：教程总览" → "教程总览"
+// limit=2 只切第一段（系列前缀），保留章节标题内的：
+function displayName(raw: string): string {
+	return raw.split(/\s*[·：]\s*/, 2)[1] ?? raw;
+}
+
+const idx = posts.findIndex((p) => p.id === currentId);
+const prev = idx > 0 ? posts[idx - 1] : null;
+const next = idx >= 0 && idx < posts.length - 1 ? posts[idx + 1] : null;
+const toc = generateToc(headings);
+---
+
+<aside
+	class="lg:sticky lg:top-20 lg:-ms-32 lg:me-0 lg:max-h-[calc(100vh-6rem)] lg:overflow-y-auto lg:pe-1 lg:basis-64"
+>
+	<h2 class="title mb-1 text-lg">{title}</h2>
+	<ul class="space-y-0.5 text-sm">
+		{posts.map((p) => (
+			<li>
+				{p.id === currentId ? (
+					<span
+						class="block rounded-md bg-muted px-2.5 py-1 font-semibold text-foreground"
+					>
+						{displayName(p.data.title)}
+					</span>
+				) : (
+					<a href={`/posts/${p.id}/`} class="block rounded-md px-2.5 py-1 text-muted-foreground transition-colors hover:bg-muted hover:text-foreground">
+						{displayName(p.data.title)}
+					</a>
+				)}
+			</li>
+		))}
+	</ul>
+
+	{(prev || next) && (
+		<nav
+			class="mt-3 flex justify-between gap-2 border-t border-muted/40 pt-3 text-xs"
+		>
+			{prev ? (
+				<a href={`/posts/${prev.id}/`} class="text-muted-foreground hover:text-foreground">
+					← {prev.data.title}
+				</a>
+			) : (
+				<span></span>
+			)}
+			{next ? (
+				<a href={`/posts/${next.id}/`} class="text-right text-muted-foreground hover:text-foreground">
+					{next.data.title} →
+				</a>
+			) : (
+				<span></span>
+			)}
+		</nav>
+	)}
+
+	{!!toc.length && (
+		<nav class="mt-5 border-t border-muted/40 pt-4">
+			<h2 class="title mb-3 text-lg">本页目录</h2>
+			<ol class="text-sm">
+				{toc.map((heading) => <TOCHeading heading={heading} />)}
+			</ol>
+		</nav>
+	)}
+</aside>

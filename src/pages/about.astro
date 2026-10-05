@@ -1,0 +1,31 @@
+---
+import PageLayout from "@/layouts/Base.astro";
+
+const meta = {
+	description: "关于本站",
+	title: "关于",
+};
+---
+
+<PageLayout meta={meta}>
+	<h1 class="title mb-12">关于</h1>
+	<div class="prose prose-sm prose-cactus max-w-none">
+		<p>
+			这是一个用 Astro 构建的静态博客，基于 <a
+				class="cactus-link inline-block"
+				href="https://github.com/chrismwilliams/astro-theme-cactus"
+				rel="noreferrer"
+				target="_blank">Astro Cactus</a
+			> 主题。
+		</p>
+		<p>主要内容：</p>
+		<ul class="list-inside list-disc" role="list">
+			<li>《从 0 开始实现一个 Coding Agent》教程系列（13 篇，带侧边目录）</li>
+			<li>随写随记的文章与便签</li>
+		</ul>
+		<p>
+			内置功能：静态站点、响应式布局、明暗主题切换、Pagefind 全文搜索、RSS、
+			Expressive Code 代码高亮。
+		</p>
+	</div>
+</PageLayout>
