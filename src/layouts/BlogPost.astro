@@ -41,7 +41,7 @@ const seriesSlug = getSeriesSlug(post.id);
 				!!headings.length && <TOC headings={headings} />
 			)}
 			<div
-				class="prose prose-sm prose-headings:font-semibold prose-headings:text-accent-2 prose-headings:before:absolute prose-headings:before:-ms-4 prose-headings:before:text-muted prose-headings:hover:before:text-accent sm:prose-headings:before:content-['#'] sm:prose-th:before:content-none grow min-w-0"
+				class="prose prose-sm max-w-none prose-headings:font-semibold prose-headings:text-accent-2 prose-headings:before:absolute prose-headings:before:-ms-4 prose-headings:before:text-muted prose-headings:hover:before:text-accent sm:prose-headings:before:content-['#'] sm:prose-th:before:content-none grow min-w-0"
 			>
 				<slot />
 				<WebMentions />
