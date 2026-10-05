@@ -23,6 +23,13 @@ export default {
 							border: "1px dotted #666",
 							borderRadius: "2px",
 						},
+						/* 关闭 typography 插件默认给行内代码加的装饰反引号（看起来像没解析） */
+						"code::before": {
+							content: "none",
+						},
+						"code::after": {
+							content: "none",
+						},
 						kbd: {
 							"&:where([data-theme='dark'], [data-theme='dark'] *)": {
 								background: "var(--color-global-text)",
