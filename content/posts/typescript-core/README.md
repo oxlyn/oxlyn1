@@ -1,7 +1,7 @@
 ---
 title: "TypeScript 核心入门：在 JavaScript 之上加一层类型"
 description: "TypeScript 系列教程总览：类型层的价值、三条学习主线、环境准备与章节导航。"
-publishDate: 2026-07-31T09:00:00
+publishDate: 2026-07-19T09:00:00
 tags: ["typescript", "教程"]
 ---
 

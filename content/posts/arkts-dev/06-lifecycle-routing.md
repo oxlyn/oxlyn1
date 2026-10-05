@@ -1,7 +1,7 @@
 ---
 title: "ArkTS 鸿蒙开发入门 · 第 6 章：生命周期与页面路由"
 description: "组件与页面的生命周期钩子、router 页面跳转与参数传递、返回键的拦截。"
-publishDate: 2026-08-06T09:00:00
+publishDate: 2026-07-25T09:00:00
 tags: ["arkts", "harmonyos", "教程"]
 ---
 
