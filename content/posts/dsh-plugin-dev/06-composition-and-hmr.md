@@ -1,7 +1,7 @@
 ---
 title: "DSH 插件开发 · 第 6 章：组合与热重载"
 description: "cordis.yml 的高级组合：id 身份、分组与 isolate、HMR 插件，以及 PENDING 插件的诊断方法。"
-publishDate: 2026-10-02T14:00:00
+publishDate: 2026-09-23T09:00:00
 tags: ["dsh", "cordis", "教程"]
 ---
 

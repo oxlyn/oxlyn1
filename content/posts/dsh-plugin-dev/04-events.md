@@ -1,7 +1,7 @@
 ---
 title: "DSH 插件开发 · 第 4 章：事件与分发模式"
 description: "从 emit 到 waterfall：Cordis 的五种事件分发模式，以及 harness 靠它实现工具结果、模型请求与审批流转。"
-publishDate: 2026-09-30T14:00:00
+publishDate: 2026-09-21T09:00:00
 tags: ["dsh", "cordis", "教程"]
 ---
 

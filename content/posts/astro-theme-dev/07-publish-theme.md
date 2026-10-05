@@ -1,7 +1,7 @@
 ---
 title: "Astro 主题开发 · 第 7 章：分发主题"
 description: "模板仓库与 npm 包两条路线：workspaces 结构、package.json 关键字段、发布流程与版本管理。"
-publishDate: 2026-10-03T17:00:00
+publishDate: 2026-10-03T09:00:00
 tags: ["astro", "主题开发", "教程"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "从 0 开始实现一个 Coding Agent · 第 7 章：上下文压缩"
 description: "阈值、缓存友好摘要、replace 投影，对照 compaction-basic 与 token-meter。"
-publishDate: 2026-09-29T20:30:00
+publishDate: 2026-08-31T09:00:00
 tags: ["教程", "agent"]
 ---
 

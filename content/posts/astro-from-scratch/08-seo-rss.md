@@ -1,7 +1,7 @@
 ---
 title: "Astro 建站实战 · 第 8 章：SEO 与分发"
 description: "sitemap、RSS、动态 OG 分享图与 meta 基础设施，内容站最后十公里。"
-publishDate: 2026-10-02T10:00:00
+publishDate: 2026-09-14T09:00:00
 tags: ["astro", "教程"]
 ---
 

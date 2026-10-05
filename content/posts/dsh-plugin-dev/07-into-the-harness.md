@@ -1,7 +1,7 @@
 ---
 title: "DSH 插件开发 · 第 7 章：注册工具，进入 Harness"
 description: "defineTool + ctx.tools：把插件能力暴露成 Agent 可调用的工具，监听 tools/result，完成一次完整组合。"
-publishDate: 2026-10-03T14:00:00
+publishDate: 2026-09-24T09:00:00
 tags: ["dsh", "cordis", "教程"]
 ---
 

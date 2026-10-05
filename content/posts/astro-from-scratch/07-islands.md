@@ -1,7 +1,7 @@
 ---
 title: "Astro 建站实战 · 第 7 章：交互岛屿"
 description: "群岛架构落地：client 指令五种水合策略、框架混用、slot 传内容，以及不用框架的第三条路。"
-publishDate: 2026-10-01T10:00:00
+publishDate: 2026-09-13T09:00:00
 tags: ["astro", "教程"]
 ---
 

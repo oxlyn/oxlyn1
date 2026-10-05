@@ -1,7 +1,7 @@
 ---
 title: "Astro 建站实战 · 第 2 章：文件路由与动态路由"
 description: "src/pages 约定、[param] 动态段、getStaticPaths、rest 参数与 paginate 分页。"
-publishDate: 2026-09-26T10:00:00
+publishDate: 2026-09-08T09:00:00
 tags: ["astro", "教程"]
 ---
 

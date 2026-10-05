@@ -1,7 +1,7 @@
 ---
 title: "Astro 建站实战 · 第 1 章：为什么是 Astro"
 description: "内容优先网站的性能困境、群岛架构与零默认 JS，以及 Astro 组件长什么样。"
-publishDate: 2026-09-25T10:00:00
+publishDate: 2026-09-07T09:00:00
 tags: ["astro", "教程"]
 ---
 

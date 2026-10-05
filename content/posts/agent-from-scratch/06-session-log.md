@@ -1,7 +1,7 @@
 ---
 title: "从 0 开始实现一个 Coding Agent · 第 6 章：会话日志"
 description: "append-only JSONL、投影推导、resume 与崩溃修复。"
-publishDate: 2026-09-28T20:30:00
+publishDate: 2026-08-30T09:00:00
 tags: ["教程", "agent"]
 ---
 

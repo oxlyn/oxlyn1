@@ -1,7 +1,7 @@
 ---
 title: "Astro 主题开发 · 第 2 章：组件与 Props"
 description: "Astro 组件的解剖：frontmatter 脚本 + 模板、Props 接口、组件组合，以及 class 传递这个经典坑。"
-publishDate: 2026-09-28T17:00:00
+publishDate: 2026-09-28T09:00:00
 tags: ["astro", "主题开发", "教程"]
 ---
 

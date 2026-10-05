@@ -1,7 +1,7 @@
 ---
 title: "Astro 主题开发 · 第 6 章：主题配置文件"
 description: "site.config 模式：单文件收敛全部用户可改项，配置驱动组件，TypeScript 保证配置质量。"
-publishDate: 2026-10-02T17:00:00
+publishDate: 2026-10-02T09:00:00
 tags: ["astro", "主题开发", "教程"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Astro 建站实战 · 第 4 章：样式体系"
 description: "scoped 样式、is:global、@layer 分层与 Tailwind 4 的接入方式，外加暗色模式的实现。"
-publishDate: 2026-09-28T10:00:00
+publishDate: 2026-09-10T09:00:00
 tags: ["astro", "教程"]
 ---
 

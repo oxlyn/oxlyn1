@@ -1,7 +1,7 @@
 ---
 title: "从 0 开始实现一个 Coding Agent：教程总览"
 description: "一套基于 DeepSeek Harness 代码库的中文学习教程：从一次裸的模型 API 调用开始，一章一章增加能力，最终长成完整的 coding agent。"
-publishDate: 2026-10-05T20:30:00
+publishDate: 2026-09-06T09:00:00
 tags: ["教程", "agent"]
 ---
 

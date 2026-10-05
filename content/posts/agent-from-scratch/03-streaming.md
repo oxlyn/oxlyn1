@@ -1,7 +1,7 @@
 ---
 title: "从 0 开始实现一个 Coding Agent · 第 3 章：流式输出"
 description: "SSE 解析、统一事件词汇、组装器，对照 StreamChunk / BlockAssembler。"
-publishDate: 2026-09-25T20:30:00
+publishDate: 2026-08-27T09:00:00
 tags: ["教程", "agent"]
 ---
 
