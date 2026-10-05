@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 核心入门 · 第 10 章：DOM 与事件"
 description: "查询与创建节点、事件监听与委托、防抖节流：浏览器端 JS 的最小必要知识。"
-publishDate: 2026-07-05T09:00:00
+publishDate: 2026-06-23T09:00:00
 tags: ["javascript", "教程"]
 ---
 

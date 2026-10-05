@@ -1,7 +1,7 @@
 ---
 title: "ArkTS 鸿蒙开发入门 · 第 5 章：渲染控制与 UI 复用"
 description: "if/ForEach/LazyForEach 渲染控制、键生成器的重要性，@Builder/@Styles/@Extend 复用手法。"
-publishDate: 2026-07-24T09:00:00
+publishDate: 2026-07-12T09:00:00
 tags: ["arkts", "harmonyos", "教程"]
 ---
 

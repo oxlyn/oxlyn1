@@ -1,7 +1,7 @@
 ---
 title: "ArkTS 鸿蒙开发入门 · 第 2 章：从 TS 到 ArkTS"
 description: "四条语言约束：强制静态类型、对象布局不可变、运算符语义收紧、放弃结构化类型。"
-publishDate: 2026-07-21T09:00:00
+publishDate: 2026-07-09T09:00:00
 tags: ["arkts", "harmonyos", "教程"]
 ---
 

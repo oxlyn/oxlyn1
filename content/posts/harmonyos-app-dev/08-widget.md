@@ -1,7 +1,7 @@
 ---
 title: "鸿蒙应用开发 · 第 8 章：应用卡片"
 description: "ArkTS 卡片的心智模型：FormExtensionAbility、卡片配置、定时与代理刷新。"
-publishDate: 2026-08-08T09:00:00
+publishDate: 2026-07-27T09:00:00
 tags: ["harmonyos", "arkts", "教程"]
 ---
 

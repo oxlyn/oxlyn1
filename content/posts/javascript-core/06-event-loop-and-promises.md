@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 核心入门 · 第 6 章：事件循环与 Promise"
 description: "单线程如何做到非阻塞：调用栈、任务队列与事件循环，Promise 的链式与组合。"
-publishDate: 2026-07-01T09:00:00
+publishDate: 2026-06-19T09:00:00
 tags: ["javascript", "教程"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "ArkTS 鸿蒙开发入门 · 第 1 章：初识 ArkTS"
 description: "ArkTS 与 TS 的关系、DevEco Studio 工程创建，以及第一个页面的完整解剖。"
-publishDate: 2026-07-20T09:00:00
+publishDate: 2026-07-08T09:00:00
 tags: ["arkts", "harmonyos", "教程"]
 ---
 

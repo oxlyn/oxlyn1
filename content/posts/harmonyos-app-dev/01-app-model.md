@@ -1,7 +1,7 @@
 ---
 title: "鸿蒙应用开发 · 第 1 章：应用模型与模块化工程"
 description: "Stage 模型的组件地图、HAP/HAR/HSP 三种包的分工，以及多模块工程的拆分策略。"
-publishDate: 2026-08-01T09:00:00
+publishDate: 2026-07-20T09:00:00
 tags: ["harmonyos", "arkts", "教程"]
 ---
 

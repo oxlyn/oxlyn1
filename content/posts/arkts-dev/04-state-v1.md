@@ -1,7 +1,7 @@
 ---
 title: "ArkTS 鸿蒙开发入门 · 第 4 章：状态管理 V1"
 description: "@State 的观察能力、父子组件的 @Prop/@Link 单双向同步、@Provide/@Consume 跨层传递。"
-publishDate: 2026-07-23T09:00:00
+publishDate: 2026-07-11T09:00:00
 tags: ["arkts", "harmonyos", "教程"]
 ---
 

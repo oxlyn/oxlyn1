@@ -1,7 +1,7 @@
 ---
 title: "TypeScript 核心入门 · 第 5 章：函数类型"
 description: "函数签名即契约：参数与返回值标注、类型谓词守卫、重载的适用时机。"
-publishDate: 2026-07-12T09:00:00
+publishDate: 2026-06-30T09:00:00
 tags: ["typescript", "教程"]
 ---
 

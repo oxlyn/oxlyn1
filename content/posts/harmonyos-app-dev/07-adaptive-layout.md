@@ -1,7 +1,7 @@
 ---
 title: "鸿蒙应用开发 · 第 7 章：一多适配"
 description: "一套工程多端部署：断点监听、栅格布局、自适应能力，以及列表-详情双栏的完整实战。"
-publishDate: 2026-08-07T09:00:00
+publishDate: 2026-07-26T09:00:00
 tags: ["harmonyos", "arkts", "教程"]
 ---
 
