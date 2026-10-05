@@ -1,7 +1,7 @@
 ---
 title: "Astro 建站实战 · 第 3 章：组件、Props 与布局"
 description: ".astro 组件的复用单元：Props 类型、slot 插槽、嵌套组合出整页布局。"
-publishDate: 2026-10-05T10:30:00
+publishDate: 2026-09-27T10:00:00
 tags: ["astro", "教程"]
 ---
 

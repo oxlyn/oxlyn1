@@ -1,7 +1,7 @@
 ---
 title: "DSH 插件开发 · 附录：API 速查与排错"
 description: "Cordis 常用 API 一页速查，以及系列里出现过的六个高频坑位的统一索引。"
-publishDate: 2026-10-05T12:35:00
+publishDate: 2026-10-04T14:00:00
 tags: ["dsh", "cordis", "教程"]
 ---
 

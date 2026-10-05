@@ -1,7 +1,7 @@
 ---
 title: "从 0 开始实现一个 Coding Agent · 第 11 章：离线测试与回放"
 description: "mock 模型、日志断言、样例日志，全程不联网。"
-publishDate: 2026-10-05T12:00:00
+publishDate: 2026-10-03T20:30:00
 tags: ["教程", "agent"]
 ---
 

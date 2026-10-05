@@ -1,7 +1,7 @@
 ---
 title: "Astro 建站实战 · 附录：速查表与资源"
 description: "九章内容的浓缩：命令、API、指令一页速查，官方文档地图与本站文件对照。"
-publishDate: 2026-10-05T08:45:00
+publishDate: 2026-10-04T10:00:00
 tags: ["astro", "教程"]
 ---
 

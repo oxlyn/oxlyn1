@@ -1,7 +1,7 @@
 ---
 title: "DSH 插件开发 · 第 5 章：配置与校验"
 description: "用 Schemastery 声明插件配置：apply 前校验、失败即 FAILED、默认值与 !!js 计算值。"
-publishDate: 2026-10-05T12:20:00
+publishDate: 2026-10-01T14:00:00
 tags: ["dsh", "cordis", "教程"]
 ---
 

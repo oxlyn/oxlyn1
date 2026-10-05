@@ -1,7 +1,7 @@
 ---
 title: "Astro 建站实战 · 第 6 章：Markdown 渲染管线"
 description: "从 Markdown 到 HTML 的完整旅程：processor、remark/rehype 插件位、Expressive Code 高亮与 MDX 的取舍。"
-publishDate: 2026-10-05T09:45:00
+publishDate: 2026-09-30T10:00:00
 tags: ["astro", "教程"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "从 0 开始实现一个 Coding Agent · 第 10 章：系统提示词与运行时上下文"
 description: "section 汇编、上下文快照 + replace 刷新。"
-publishDate: 2026-10-05T13:00:00
+publishDate: 2026-10-02T20:30:00
 tags: ["教程", "agent"]
 ---
 

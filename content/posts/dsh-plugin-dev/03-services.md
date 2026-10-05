@@ -1,7 +1,7 @@
 ---
 title: "DSH 插件开发 · 第 3 章：服务"
 description: "Service 类 + declare module 类型合并 + inject 依赖注入：harness 内部的组织方式。"
-publishDate: 2026-10-05T12:10:00
+publishDate: 2026-09-29T14:00:00
 tags: ["dsh", "cordis", "教程"]
 ---
 

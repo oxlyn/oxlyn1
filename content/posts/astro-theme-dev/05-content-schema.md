@@ -1,7 +1,7 @@
 ---
 title: "Astro 主题开发 · 第 5 章：为内容设计 schema"
 description: "内容集合是主题与使用者之间的契约：frontmatter 字段设计、校验与默认值、严格与宽松的权衡。"
-publishDate: 2026-10-05T14:25:00
+publishDate: 2026-10-01T17:00:00
 tags: ["astro", "主题开发", "教程"]
 ---
 

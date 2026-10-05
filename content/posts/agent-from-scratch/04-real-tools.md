@@ -1,7 +1,7 @@
 ---
 title: "从 0 开始实现一个 Coding Agent · 第 4 章：真实工具"
 description: "bash 执行器（超时/截断/退出码）、读、写、改，对照 tool-bash 与 tool-fs。"
-publishDate: 2026-10-05T19:00:00
+publishDate: 2026-09-26T20:30:00
 tags: ["教程", "agent"]
 ---
 

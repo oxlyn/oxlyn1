@@ -1,7 +1,7 @@
 ---
 title: "DSH 插件开发 · 第 1 章：第一个插件"
 description: "从 apply 函数约定开始：三种插件形态、cordis.yml 组合根，以及两种截然不同的失败语义。"
-publishDate: 2026-10-05T12:00:00
+publishDate: 2026-09-27T14:00:00
 tags: ["dsh", "cordis", "教程"]
 ---
 

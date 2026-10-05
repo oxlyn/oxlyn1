@@ -1,7 +1,7 @@
 ---
 title: "Astro 建站实战 · 第 5 章：内容集合"
 description: "content.config.ts 定义集合、glob loader 加载 Markdown、zod 校验 frontmatter，getCollection 类型安全查询。"
-publishDate: 2026-10-05T10:00:00
+publishDate: 2026-09-29T10:00:00
 tags: ["astro", "教程"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Astro 主题开发：从写网站到做主题"
 description: "Astro 主题开发系列总览：主题与网站的区别、两种分发形态、章节导航与学习路线。"
-publishDate: 2026-10-05T14:00:00
+publishDate: 2026-10-05T17:00:00
 tags: ["astro", "主题开发", "教程"]
 ---
 

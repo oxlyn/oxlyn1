@@ -1,7 +1,7 @@
 ---
 title: "从 0 开始实现一个 Coding Agent · 第 1 章：最简实现"
 description: "一次模型调用、消息角色、多轮对话，对照 packages/llm/llm 的消息词汇与适配器接缝。"
-publishDate: 2026-10-05T22:00:00
+publishDate: 2026-09-23T20:30:00
 tags: ["教程", "agent"]
 ---
 

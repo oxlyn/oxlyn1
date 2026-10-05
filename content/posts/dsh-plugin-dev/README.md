@@ -1,7 +1,7 @@
 ---
 title: "DSH 插件开发：从零写出你的 Cordis 插件"
 description: "DeepSeek Harness 插件框架 Cordis 系列教程总览：环境准备、章节导航与学习路线。"
-publishDate: 2026-10-05T12:40:00
+publishDate: 2026-10-05T14:00:00
 tags: ["dsh", "cordis", "教程"]
 ---
 

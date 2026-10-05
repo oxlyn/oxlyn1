@@ -1,7 +1,7 @@
 ---
 title: "从 0 开始实现一个 Coding Agent · 第 2 章：Agent 循环"
 description: "工具调用、while 循环、step/turn，对照 packages/core/agent-loop。"
-publishDate: 2026-10-05T21:00:00
+publishDate: 2026-09-24T20:30:00
 tags: ["教程", "agent"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Astro 建站实战 · 第 9 章：构建与部署"
 description: "astro build 产物解剖、静态与 SSR 的选择、Cloudflare 部署两条路，以及 push 即发布的自动化。"
-publishDate: 2026-10-05T09:00:00
+publishDate: 2026-10-03T10:00:00
 tags: ["astro", "教程"]
 ---
 

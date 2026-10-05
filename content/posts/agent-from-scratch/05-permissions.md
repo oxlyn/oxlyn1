@@ -1,7 +1,7 @@
 ---
 title: "从 0 开始实现一个 Coding Agent · 第 5 章：权限与安全"
 description: "权限门、审批渠道、fail-closed，对照工具管线与用户审批。"
-publishDate: 2026-10-05T18:00:00
+publishDate: 2026-09-27T20:30:00
 tags: ["教程", "agent"]
 ---
 

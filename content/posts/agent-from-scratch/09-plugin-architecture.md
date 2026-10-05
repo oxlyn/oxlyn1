@@ -1,7 +1,7 @@
 ---
 title: "从 0 开始实现一个 Coding Agent · 第 9 章：插件化架构"
 description: "服务注册、可逆注册、waterfall 事件，对照 cordis 插件内核。"
-publishDate: 2026-10-05T14:00:00
+publishDate: 2026-10-01T20:30:00
 tags: ["教程", "agent"]
 ---
 

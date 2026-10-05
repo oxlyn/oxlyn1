@@ -1,7 +1,7 @@
 ---
 title: "从 0 开始实现一个 Coding Agent · 第 8 章：子代理"
 description: "委托、三重隔离、深度预算，对照 subagent 与 tool-subagent。"
-publishDate: 2026-10-05T15:00:00
+publishDate: 2026-09-30T20:30:00
 tags: ["教程", "agent"]
 ---
 

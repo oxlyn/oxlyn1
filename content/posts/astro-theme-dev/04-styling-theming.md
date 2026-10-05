@@ -1,7 +1,7 @@
 ---
 title: "Astro 主题开发 · 第 4 章：样式与主题化"
 description: "scoped 样式的边界、全局样式的正确打开方式、CSS 变量与暗色模式：把外观做成主题 token。"
-publishDate: 2026-10-05T14:20:00
+publishDate: 2026-09-30T17:00:00
 tags: ["astro", "主题开发", "教程"]
 ---
 

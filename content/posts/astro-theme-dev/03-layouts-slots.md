@@ -1,7 +1,7 @@
 ---
 title: "Astro 主题开发 · 第 3 章：布局与插槽"
 description: "BaseLayout 模式、slot 回退与命名插槽、嵌套布局复用，以及 Markdown 的 layout 属性。"
-publishDate: 2026-10-05T14:15:00
+publishDate: 2026-09-29T17:00:00
 tags: ["astro", "主题开发", "教程"]
 ---
 

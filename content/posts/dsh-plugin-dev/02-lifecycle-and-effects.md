@@ -1,7 +1,7 @@
 ---
 title: "DSH 插件开发 · 第 2 章：生命周期与 effect"
 description: "effect 是 Cordis 的心智模型核心：通过 ctx 做的注册会自动跟随插件生灭，fiber 状态机让卸载可观测、可递归、可异步。"
-publishDate: 2026-10-05T12:05:00
+publishDate: 2026-09-28T14:00:00
 tags: ["dsh", "cordis", "教程"]
 ---
 
