@@ -1,7 +1,7 @@
 ---
 title: "ArkTS 鸿蒙开发入门 · 附录：装饰器速查与资源"
 description: "ArkTS 开发一页速查：V1/V2 状态装饰器表、生命周期表、常用组件，附官方学习资源。"
-publishDate: 2026-08-23T09:00:00
+publishDate: 2026-08-11T09:00:00
 tags: ["arkts", "harmonyos", "教程"]
 ---
 

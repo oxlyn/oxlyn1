@@ -1,7 +1,7 @@
 ---
 title: "ArkTS 鸿蒙开发入门 · 第 8 章：异步与网络"
 description: "async/await 在 ArkTS 的落地、HTTP 请求与权限声明、响应建模与判别联合的实战。"
-publishDate: 2026-08-20T09:00:00
+publishDate: 2026-08-08T09:00:00
 tags: ["arkts", "harmonyos", "教程"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "ArkTS 鸿蒙开发入门 · 第 7 章：深观察与状态 V2"
 description: "@Observed/@ObjectLink 嵌套观察、@Track 精细更新，以及 V2 装饰器体系的核心思想。"
-publishDate: 2026-08-19T09:00:00
+publishDate: 2026-08-07T09:00:00
 tags: ["arkts", "harmonyos", "教程"]
 ---
 

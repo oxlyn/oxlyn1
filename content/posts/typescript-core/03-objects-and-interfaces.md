@@ -1,7 +1,7 @@
 ---
 title: "TypeScript 核心入门 · 第 3 章：对象与接口"
 description: "interface 与 type 的真实差异、可选/只读/索引属性，以及 extends 复用形状。"
-publishDate: 2026-08-03T09:00:00
+publishDate: 2026-07-22T09:00:00
 tags: ["typescript", "教程"]
 ---
 

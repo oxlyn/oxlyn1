@@ -1,7 +1,7 @@
 ---
 title: "ArkTS 鸿蒙开发入门：从 TS 到 ArkUI"
 description: "ArkTS 系列教程总览：语言层约束、声明式 UI 与状态管理、并发模型与应用框架的学习路线。"
-publishDate: 2026-08-24T09:00:00
+publishDate: 2026-08-12T09:00:00
 tags: ["arkts", "harmonyos", "教程"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "ArkTS 鸿蒙开发入门 · 第 3 章：声明式 UI 基础"
 description: "struct 与 build 的声明式范式、内置组件全家桶、链式属性与事件、常用布局容器。"
-publishDate: 2026-08-15T09:00:00
+publishDate: 2026-08-03T09:00:00
 tags: ["arkts", "harmonyos", "教程"]
 ---
 

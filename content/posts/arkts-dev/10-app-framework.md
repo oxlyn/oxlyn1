@@ -1,7 +1,7 @@
 ---
 title: "ArkTS 鸿蒙开发入门 · 第 10 章：应用框架"
 description: "UIAbility 生命周期、Navigation 导航体系、Tabs 与工程结构：把页面组装成应用。"
-publishDate: 2026-08-22T09:00:00
+publishDate: 2026-08-10T09:00:00
 tags: ["arkts", "harmonyos", "教程"]
 ---
 

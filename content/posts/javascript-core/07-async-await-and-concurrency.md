@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 核心入门 · 第 7 章：async/await 与并发控制"
 description: "async 函数就是 Promise：顺序写法的并发陷阱、Promise.all 批量化，以及信号量限流。"
-publishDate: 2026-07-26T09:00:00
+publishDate: 2026-07-14T09:00:00
 tags: ["javascript", "教程"]
 ---
 
