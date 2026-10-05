@@ -81,15 +81,20 @@ publishDate: '2026-10-06T12:00:00Z'
 ## 站点配置
 
 `src/site.config.ts`：站点 URL、标题、作者、语言、导航菜单、Expressive Code 主题。
-**部署前把 `url` 的 `example.com` 占位符改成真实域名**，否则 RSS / sitemap / OG 图链接不对。
+`url` 必须与线上域名一致，否则 RSS / sitemap / OG 图链接不对。
 
-## 部署（静态托管）
+## 部署（Cloudflare Pages · Wrangler 直传）
 
-`npm run build` 后，把 `dist/` 目录上传到任意静态托管即可，例如：
+站点已部署在 **https://oxlyn1.pages.dev/**，采用本地构建 + Wrangler 直传（仓库托管在 Gitee，Cloudflare 的 git 集成不支持 Gitee）：
 
-- **Cloudflare Pages / Netlify / Vercel**：构建命令 `npm run build`，输出目录 `dist`
-- **GitHub Pages**：推送 `dist/` 或使用 Pages Actions 构建
-- **自己的服务器 / Nginx**：同步 `dist/` 到网站根目录
+```sh
+npm run build
+npx wrangler pages deploy dist --project-name=oxlyn1
+```
+
+首次使用需 `npx wrangler login` 授权。改动发布流程：提交推送 Gitee 存档 → 上面两条命令发布。
+
+若以后改用 GitHub 托管，可换 Cloudflare git 集成自动部署：构建命令 `npm run build`，输出目录 `dist`，环境变量 `NODE_VERSION=22`。
 
 ## 目录结构
 
