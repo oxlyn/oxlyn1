@@ -139,3 +139,29 @@
 	--tw-prose-quotes: var(--color-quote);
 	--tw-prose-th-borders: #666;
 }
+
+/*
+ * 系列文章页布局（body.series-rail-layout，配合 SeriesSidebar 的固定左栏）：
+ * md–xl（768–1279px）区间页面没有足够留白，正文列整体右移让位：
+ * - 左偏移取 max(17rem, 居中值)：17rem = 侧栏 14rem + 间隙 + 页头悬挂 logo 的伸出量
+ * - 列宽 min(48rem, 100% - 18rem)，保证右缘至少 1rem 空隙
+ * xl（≥1280px）起恢复默认居中（上方 body 的 mx-auto max-w-3xl）
+ * 放在 layer 外以覆盖 Tailwind 工具类
+ */
+@media (min-width: 48rem) and (max-width: 79.99rem) {
+	body.series-rail-layout {
+		margin-inline: max(17rem, calc((100% - 48rem) / 2)) auto;
+		max-width: min(48rem, calc(100% - 18rem));
+	}
+}
+
+/*
+ * ≥896px（目录栏已移到右侧，见 SeriesSidebar 的 min-[56rem] 断点）：
+ * 正文列同时给左右两栏让位——右偏移 12.5rem = 右栏 11rem + 间隙
+ */
+@media (min-width: 56rem) and (max-width: 79.99rem) {
+	body.series-rail-layout {
+		margin-inline-end: 12.5rem;
+		max-width: min(48rem, calc(100% - 30rem));
+	}
+}

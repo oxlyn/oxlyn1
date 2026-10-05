@@ -32,8 +32,12 @@ const next = idx >= 0 && idx < posts.length - 1 ? posts[idx + 1] : null;
 const toc = generateToc(headings);
 ---
 
+<!-- md（≥768px）起：固定为贴视口左缘、从页顶到页底的整高目录栏，
+     768–1279px 区间由 global.css 的 body.series-rail-layout 让正文列右移腾位；
+     xl（≥1280px）页面自身留白 ≥ 栏宽，正文恢复居中，栏宽加大到 w-64；
+     窄于 md 时目录按文档流排在正文上方 -->
 <aside
-	class="lg:sticky lg:top-20 lg:-ms-32 lg:me-0 lg:max-h-[calc(100vh-6rem)] lg:overflow-y-auto lg:pe-1 lg:basis-64"
+	class="md:fixed md:inset-y-0 md:start-0 md:z-40 md:w-56 md:shrink-0 md:overflow-y-auto md:border-e md:border-muted/40 md:bg-global-bg md:px-4 md:py-6 xl:w-64"
 >
 	<h2 class="title mb-1 text-lg">{title}</h2>
 	<ul class="space-y-0.5 text-sm">
@@ -75,12 +79,19 @@ const toc = generateToc(headings);
 		</nav>
 	)}
 
-	{!!toc.length && (
-		<nav class="mt-5 border-t border-muted/40 pt-4">
-			<h2 class="title mb-3 text-lg">本页目录</h2>
-			<ol class="text-sm">
-				{toc.map((heading) => <TOCHeading heading={heading} />)}
-			</ol>
-		</nav>
-	)}
+		{!!toc.length && (
+			<nav
+				class:list={[
+					"mt-5 border-t border-muted/40 pt-4",
+					// ≥896px：脱离左栏，固定为贴视口右缘的整高目录栏
+					//（正文列由 global.css 的 body.series-rail-layout 让位）
+					"min-[56rem]:fixed min-[56rem]:inset-y-0 min-[56rem]:end-0 min-[56rem]:z-40 min-[56rem]:mt-0 min-[56rem]:w-44 min-[56rem]:overflow-y-auto min-[56rem]:border-t-0 min-[56rem]:border-s min-[56rem]:border-muted/40 min-[56rem]:bg-global-bg min-[56rem]:px-4 min-[56rem]:py-6",
+				]}
+			>
+				<h2 class="title mb-3 text-lg">本页目录</h2>
+				<ol class="text-sm">
+					{toc.map((heading) => <TOCHeading heading={heading} />)}
+				</ol>
+			</nav>
+		)}
 </aside>

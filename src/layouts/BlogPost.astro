@@ -30,6 +30,7 @@ const seriesSlug = getSeriesSlug(post.id);
 		ogImage: socialImage,
 		title,
 	}}
+	seriesRail={!!seriesSlug}
 >
 	<article class="grow break-words" data-pagefind-body>
 		<div id="blog-hero" class="mb-12"><Masthead content={post} readingTime={readingTime} /></div>

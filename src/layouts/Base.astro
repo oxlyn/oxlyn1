@@ -9,10 +9,13 @@ import type { SiteMeta } from "@/types";
 
 interface Props {
 	meta: SiteMeta;
+	/** 系列文章页为 true：md–xl 区间正文列右移，为左侧固定目录栏（SeriesSidebar）让位 */
+	seriesRail?: boolean;
 }
 
 const {
 	meta: { articleDate, description = siteConfig.description, ogImage, title },
+	seriesRail = false,
 } = Astro.props;
 ---
 
@@ -22,7 +25,10 @@ const {
 		<ThemeProvider />
 	</head>
 	<body
-		class="bg-global-bg text-global-text mx-auto flex min-h-screen max-w-3xl flex-col px-4 pt-16 font-mono text-sm font-normal antialiased sm:px-8"
+		class:list={[
+			"bg-global-bg text-global-text mx-auto flex min-h-screen max-w-3xl flex-col px-4 pt-16 font-mono text-sm font-normal antialiased sm:px-8",
+			seriesRail && "series-rail-layout",
+		]}
 	>
 		<SkipLink />
 		<Header />
