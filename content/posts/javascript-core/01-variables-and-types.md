@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 核心入门 · 第 1 章：变量与类型"
 description: "let/const/var 的真实区别、七种类型与动态类型的边界，以及 == 背后的隐式转换规则。"
-publishDate: 2026-08-13T09:00:00
+publishDate: 2026-08-01T09:00:00
 tags: ["javascript", "教程"]
 ---
 

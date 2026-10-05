@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 核心入门 · 第 8 章：模块化 ESM"
 description: "import/export 的完整语义、命名与默认导出的取舍，以及 ESM 与 CommonJS 的关键差异。"
-publishDate: 2026-08-20T09:00:00
+publishDate: 2026-08-08T09:00:00
 tags: ["javascript", "教程"]
 ---
 
