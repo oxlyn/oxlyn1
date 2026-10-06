@@ -1,7 +1,7 @@
 ---
 title: "TypeScript 核心入门 · 第 6 章：泛型"
 description: "类型参数让函数与容器复用：推断优先、extends 约束、泛型接口与默认类型参数。"
-publishDate: 2026-06-19T09:00:00
+publishDate: 2026-06-07T09:00:00
 tags: ["typescript", "教程"]
 ---
 

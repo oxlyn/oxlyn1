@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 核心入门 · 第 3 章：函数与闭包"
 description: "函数是一等公民：三种写法、this 的绑定规则，以及闭包——JS 一切高级模式的底层机制。"
-publishDate: 2026-06-04T09:00:00
+publishDate: 2026-05-23T09:00:00
 tags: ["javascript", "教程"]
 ---
 

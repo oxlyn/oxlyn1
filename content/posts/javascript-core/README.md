@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 核心入门：从语法到事件循环"
 description: "JavaScript 系列教程总览：面向已有其他语言基础的开发者，十章打通语法、对象模型与异步三大关卡。"
-publishDate: 2026-06-13T09:00:00
+publishDate: 2026-06-01T09:00:00
 tags: ["javascript", "教程"]
 ---
 
