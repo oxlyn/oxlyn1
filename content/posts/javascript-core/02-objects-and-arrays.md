@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 核心入门 · 第 2 章：对象与数组"
 description: "属性模型与引用语义、解构与展开、用 map/filter/reduce 替代手写循环。"
-publishDate: 2026-05-22T09:00:00
+publishDate: 2026-05-10T09:00:00
 tags: ["javascript", "教程"]
 ---
 

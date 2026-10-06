@@ -1,7 +1,7 @@
 ---
 title: "Vite 工程化入门 · 第 5 章：插件系统"
 description: "基于 Rollup 的插件接口、开发/构建双阶段钩子、手写一个 transform 插件。"
-publishDate: 2026-06-18T09:00:00
+publishDate: 2026-06-06T09:00:00
 tags: ["vite", "前端工程化", "教程"]
 ---
 

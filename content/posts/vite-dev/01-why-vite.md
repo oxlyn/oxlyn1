@@ -1,7 +1,7 @@
 ---
 title: "Vite 工程化入门 · 第 1 章：为什么是 Vite"
 description: "打包器时代的两难：超大 dev server 与慢速启动，原生 ESM 按需编译如何破局。"
-publishDate: 2026-06-14T09:00:00
+publishDate: 2026-06-02T09:00:00
 tags: ["vite", "前端工程化", "教程"]
 ---
 

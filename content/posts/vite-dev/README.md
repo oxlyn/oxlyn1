@@ -1,7 +1,7 @@
 ---
 title: "Vite 工程化入门：从开发服务器到生产构建"
 description: "Vite 系列教程总览：dev server 与 HMR、构建与环境变量、插件系统、Astro 集成与优化实践。"
-publishDate: 2026-06-25T09:00:00
+publishDate: 2026-06-13T09:00:00
 tags: ["vite", "前端工程化", "教程"]
 ---
 
@@ -43,4 +43,4 @@ cd my-app && npm install && npm run dev
 ## 遗留问题
 
 - Backend Integration（传统后端模板接 Vite）、Vitest 单测、PWA/SSG 插件生态未展开。
-- Vite 7 起引入 Rolldown（Rust 版 Rollup）作为实验构建引擎，默认仍是 Rollup——本章按默认行为讲解。
+- Vite 7 起引入 Rolldown（Rust 版 Rollup）作为可选构建引擎；**Vite 8 起它已是默认引擎**——后续见[《Rolldown 入门》系列](/posts/rolldown-guide/)。

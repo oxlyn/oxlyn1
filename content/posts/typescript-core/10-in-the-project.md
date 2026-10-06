@@ -1,7 +1,7 @@
 ---
 title: "TypeScript 核心入门 · 第 10 章：融入工程"
 description: "tsconfig 实战清单、类型检查与构建转译的分工、@types 体系与渐进迁移。"
-publishDate: 2026-06-11T09:00:00
+publishDate: 2026-05-30T09:00:00
 tags: ["typescript", "教程"]
 ---
 

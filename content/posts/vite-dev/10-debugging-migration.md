@@ -1,7 +1,7 @@
 ---
 title: "Vite 工程化入门 · 第 10 章：调试与迁移"
 description: "五类高频报错的定位路径、dev/build 差异自查清单、从旧工具迁移与版本升级。"
-publishDate: 2026-06-23T09:00:00
+publishDate: 2026-06-11T09:00:00
 tags: ["vite", "前端工程化", "教程"]
 ---
 

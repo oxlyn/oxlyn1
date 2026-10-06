@@ -1,7 +1,7 @@
 ---
 title: "TypeScript 核心入门 · 第 8 章：any/unknown/never 与断言"
 description: "三个顶层类型的取舍：any 的传染性、unknown 的安全通道、as 与 satisfies 的正确用法。"
-publishDate: 2026-06-09T09:00:00
+publishDate: 2026-05-28T09:00:00
 tags: ["typescript", "教程"]
 ---
 
