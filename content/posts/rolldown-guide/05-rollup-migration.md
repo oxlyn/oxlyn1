@@ -1,7 +1,7 @@
 ---
 title: "Rolldown 入门 · 第 5 章：从 Rollup 迁移"
 description: "兼容范围、配置对照表、行为差异清单——把 Rollup 项目切到 Rolldown 的完整路径。"
-publishDate: 2026-06-18T09:00:00
+publishDate: 2026-06-06T09:00:00
 tags: ["rolldown", "vite", "前端工程化", "教程"]
 ---
 

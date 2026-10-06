@@ -1,7 +1,7 @@
 ---
 title: "Vite 工程化入门：从开发服务器到生产构建"
 description: "Vite 系列教程总览：dev server 与 HMR、构建与环境变量、插件系统、Astro 集成与优化实践。"
-publishDate: 2026-06-13T09:00:00
+publishDate: 2026-06-01T09:00:00
 tags: ["vite", "前端工程化", "教程"]
 ---
 

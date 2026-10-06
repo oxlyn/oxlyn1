@@ -1,7 +1,7 @@
 ---
 title: "ArkTS 鸿蒙开发入门 · 第 9 章：并发模型"
 description: "线程隔离与消息传递、TaskPool 自动线程池、@Concurrent/@Sendable 的使用规则。"
-publishDate: 2026-07-04T09:00:00
+publishDate: 2026-06-22T09:00:00
 tags: ["arkts", "harmonyos", "教程"]
 ---
 

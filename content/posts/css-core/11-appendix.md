@@ -1,7 +1,7 @@
 ---
 title: "CSS 核心入门 · 附录：属性速查与资源"
 description: "CSS 高频属性与函数一页速查，附现代特性清单、官方资源与站内对照索引。"
-publishDate: 2026-07-30T09:00:00
+publishDate: 2026-07-18T09:00:00
 tags: ["css", "教程"]
 ---
 

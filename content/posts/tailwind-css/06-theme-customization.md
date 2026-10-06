@@ -1,7 +1,7 @@
 ---
 title: "Tailwind CSS 实战入门 · 第 6 章：主题定制"
 description: "v4 的 CSS-first 定制：@theme 变量生成工具类、@utility 自定义原子类、v3 兼容。"
-publishDate: 2026-08-06T09:00:00
+publishDate: 2026-07-25T09:00:00
 tags: ["tailwindcss", "css", "教程"]
 ---
 

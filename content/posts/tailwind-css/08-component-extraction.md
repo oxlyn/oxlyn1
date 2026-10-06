@@ -1,7 +1,7 @@
 ---
 title: "Tailwind CSS 实战入门 · 第 8 章：组件抽取的边界"
 description: "三层复用的优先级：框架组件优先、@utility 次之、@apply 兜底——用 Button 组件实战。"
-publishDate: 2026-08-08T09:00:00
+publishDate: 2026-07-27T09:00:00
 tags: ["tailwindcss", "css", "教程"]
 ---
 

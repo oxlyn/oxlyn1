@@ -1,7 +1,7 @@
 ---
 title: "Vite 工程化入门 · 第 4 章：静态资源"
 description: "public 与 assets 的分工、导入即 URL 的语义、new URL 与 glob 导入两个利器。"
-publishDate: 2026-06-05T09:00:00
+publishDate: 2026-05-24T09:00:00
 tags: ["vite", "前端工程化", "教程"]
 ---
 

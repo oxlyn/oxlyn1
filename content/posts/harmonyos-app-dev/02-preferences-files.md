@@ -1,7 +1,7 @@
 ---
 title: "鸿蒙应用开发 · 第 2 章：轻量持久化"
 description: "Preferences 用户首选项的缓存机制与适用边界，应用沙箱内文件的读写与目录选择。"
-publishDate: 2026-07-09T09:00:00
+publishDate: 2026-06-27T09:00:00
 tags: ["harmonyos", "arkts", "教程"]
 ---
 

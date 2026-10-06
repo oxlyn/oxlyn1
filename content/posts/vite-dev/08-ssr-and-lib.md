@@ -1,7 +1,7 @@
 ---
 title: "Vite 工程化入门 · 第 8 章：SSR 与库模式"
 description: "SSR 构建的双包结构、库模式打包组件库——两种'不止一个 bundle'的构建。"
-publishDate: 2026-06-09T09:00:00
+publishDate: 2026-05-28T09:00:00
 tags: ["vite", "前端工程化", "教程"]
 ---
 

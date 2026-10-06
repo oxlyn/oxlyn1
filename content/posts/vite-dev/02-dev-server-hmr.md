@@ -1,7 +1,7 @@
 ---
 title: "Vite 工程化入门 · 第 2 章：开发服务器与 HMR"
 description: "模块图如何驱动热更新、HMR 的边界与失效场景、server 配置的常用项。"
-publishDate: 2026-06-03T09:00:00
+publishDate: 2026-05-22T09:00:00
 tags: ["vite", "前端工程化", "教程"]
 ---
 

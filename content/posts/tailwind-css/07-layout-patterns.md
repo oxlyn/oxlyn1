@@ -1,7 +1,7 @@
 ---
 title: "Tailwind CSS 实战入门 · 第 7 章：布局模式实战"
 description: "Flex/Grid 高频套路、粘性头部与三栏布局——用本站真实类名还原一套博客骨架。"
-publishDate: 2026-08-07T09:00:00
+publishDate: 2026-07-26T09:00:00
 tags: ["tailwindcss", "css", "教程"]
 ---
 

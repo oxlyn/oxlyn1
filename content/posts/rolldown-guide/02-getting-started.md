@@ -1,7 +1,7 @@
 ---
 title: "Rolldown 入门 · 第 2 章：快速上手"
 description: "独立使用 Rolldown：安装、CLI、JS API、配置文件，与 Rollup 调用方式对照。"
-publishDate: 2026-06-15T09:00:00
+publishDate: 2026-06-03T09:00:00
 tags: ["rolldown", "vite", "前端工程化", "教程"]
 ---
 

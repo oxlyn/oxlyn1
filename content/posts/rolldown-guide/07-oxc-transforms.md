@@ -1,7 +1,7 @@
 ---
 title: "Rolldown 入门 · 第 7 章：OXC 转换"
 description: "OXC 生态：transformer 与 minifier 如何取代 babel/esbuild/SWC，降级与装饰器注意点。"
-publishDate: 2026-06-20T09:00:00
+publishDate: 2026-06-08T09:00:00
 tags: ["rolldown", "vite", "前端工程化", "教程"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "TypeScript 核心入门 · 第 4 章：类型收窄"
 description: "让编译器跟着代码走：typeof/in 收窄、判别联合、never 穷尽检查——TS 类型系统的主舞台。"
-publishDate: 2026-05-24T09:00:00
+publishDate: 2026-05-12T09:00:00
 tags: ["typescript", "教程"]
 ---
 

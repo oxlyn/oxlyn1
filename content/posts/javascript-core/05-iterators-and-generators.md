@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 核心入门 · 第 5 章：迭代器与生成器"
 description: "for...of 的幕后协议、function* 的暂停恢复机制，以及异步生成器——流式数据的处理利器。"
-publishDate: 2026-05-13T09:00:00
+publishDate: 2026-05-01T09:00:00
 tags: ["javascript", "教程"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "鸿蒙应用开发 · 第 10 章：签名与上架"
 description: "调试与发布签名的证书体系、App 包打包流程、AppGallery Connect 上架与审核要点。"
-publishDate: 2026-07-17T09:00:00
+publishDate: 2026-07-05T09:00:00
 tags: ["harmonyos", "arkts", "教程"]
 ---
 

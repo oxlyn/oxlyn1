@@ -1,7 +1,7 @@
 ---
 title: "CSS 核心入门 · 第 8 章：过渡与变换"
 description: "transition 与 transform 的正确分工、GPU 加速的真相、animation 与 prefers-reduced-motion。"
-publishDate: 2026-07-27T09:00:00
+publishDate: 2026-07-15T09:00:00
 tags: ["css", "教程"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Rolldown 入门 · 第 1 章：Rolldown 是什么"
 description: "Vite 旧引擎的三件套裂缝、一个 Rust 工具的统一野心，以及 10~30 倍的性能从何而来。"
-publishDate: 2026-06-14T09:00:00
+publishDate: 2026-06-02T09:00:00
 tags: ["rolldown", "vite", "前端工程化", "教程"]
 ---
 

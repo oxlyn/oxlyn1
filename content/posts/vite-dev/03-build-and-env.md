@@ -1,7 +1,7 @@
 ---
 title: "Vite 工程化入门 · 第 3 章：构建与环境变量"
 description: "build 的产物逻辑、.env 文件家族、import.meta.env 与 PUBLIC_ 前缀、模式（mode）机制。"
-publishDate: 2026-06-04T09:00:00
+publishDate: 2026-05-23T09:00:00
 tags: ["vite", "前端工程化", "教程"]
 ---
 

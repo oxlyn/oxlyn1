@@ -1,7 +1,7 @@
 ---
 title: "Vite 工程化入门 · 第 6 章：Astro 与 Vite"
 description: "框架如何把 Vite 当内核：本站 astro.config 的 vite 配置逐行解读，插件接线实战。"
-publishDate: 2026-06-07T09:00:00
+publishDate: 2026-05-26T09:00:00
 tags: ["vite", "前端工程化", "教程"]
 ---
 

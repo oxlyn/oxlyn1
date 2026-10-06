@@ -1,7 +1,7 @@
 ---
 title: "CSS 核心入门 · 第 3 章：Flexbox"
 description: "主轴与交叉轴的双轴思维、flex 三兄弟、对齐全家桶与 gap 的救赎。"
-publishDate: 2026-07-22T09:00:00
+publishDate: 2026-07-10T09:00:00
 tags: ["css", "教程"]
 ---
 

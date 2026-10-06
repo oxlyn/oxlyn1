@@ -1,7 +1,7 @@
 ---
 title: "TypeScript 核心入门 · 第 2 章：日常类型"
 description: "标注与推断的分工、联合与字面量类型的建模威力，以及数组和元组的正确用法。"
-publishDate: 2026-05-22T09:00:00
+publishDate: 2026-05-10T09:00:00
 tags: ["typescript", "教程"]
 ---
 

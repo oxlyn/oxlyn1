@@ -1,7 +1,7 @@
 ---
 title: "鸿蒙应用开发 · 第 3 章：关系型数据库"
 description: "RelationalStore 建库建表、CRUD 与谓词查询、事务与版本升级，以及与 TaskPool 的配合。"
-publishDate: 2026-07-10T09:00:00
+publishDate: 2026-06-28T09:00:00
 tags: ["harmonyos", "arkts", "教程"]
 ---
 

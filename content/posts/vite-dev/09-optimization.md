@@ -1,7 +1,7 @@
 ---
 title: "Vite 工程化入门 · 第 9 章：构建优化"
 description: "依赖预构建的原理、代码分割与 manualChunks、首屏加载的分层策略。"
-publishDate: 2026-06-10T09:00:00
+publishDate: 2026-05-29T09:00:00
 tags: ["vite", "前端工程化", "教程"]
 ---
 

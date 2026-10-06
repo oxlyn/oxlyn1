@@ -1,7 +1,7 @@
 ---
 title: "Rolldown 入门：Rust 时代的打包器与 Vite 8 的引擎"
 description: "Rolldown 系列教程总览：统一 Vite 引擎的由来、核心特性、Rollup 迁移、OXC 转换与 Vite 8 升级实战。"
-publishDate: 2026-06-25T09:00:00
+publishDate: 2026-06-13T09:00:00
 tags: ["rolldown", "vite", "前端工程化", "教程"]
 ---
 

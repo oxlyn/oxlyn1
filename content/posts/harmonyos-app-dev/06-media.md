@@ -1,7 +1,7 @@
 ---
 title: "鸿蒙应用开发 · 第 6 章：多媒体能力"
 description: "相机 Kit 的流程骨架、相册 Picker 的免权限取图、图片显示与保存到媒体库。"
-publishDate: 2026-07-13T09:00:00
+publishDate: 2026-07-01T09:00:00
 tags: ["harmonyos", "arkts", "教程"]
 ---
 

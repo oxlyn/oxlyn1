@@ -1,7 +1,7 @@
 ---
 title: "CSS 核心入门 · 第 5 章：定位"
 description: "五种 position 的语义、absolute 的参照系、z-index 与层叠上下文的求解。"
-publishDate: 2026-07-24T09:00:00
+publishDate: 2026-07-12T09:00:00
 tags: ["css", "教程"]
 ---
 

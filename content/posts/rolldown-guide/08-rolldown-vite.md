@@ -1,7 +1,7 @@
 ---
 title: "Rolldown 入门 · 第 8 章：rolldown-vite"
 description: "Vite 7 时代的尝鲜通道：别名安装、原生插件开关、行为差异清单与一键回滚。"
-publishDate: 2026-06-21T09:00:00
+publishDate: 2026-06-09T09:00:00
 tags: ["rolldown", "vite", "前端工程化", "教程"]
 ---
 

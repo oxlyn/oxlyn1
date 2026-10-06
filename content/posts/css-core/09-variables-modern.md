@@ -1,7 +1,7 @@
 ---
 title: "CSS 核心入门 · 第 9 章：变量与现代特性"
 description: "自定义属性与主题系统、clamp 流体排版、:has() 父选择器、逻辑属性——现代 CSS 的四张王牌。"
-publishDate: 2026-07-28T09:00:00
+publishDate: 2026-07-16T09:00:00
 tags: ["css", "教程"]
 ---
 

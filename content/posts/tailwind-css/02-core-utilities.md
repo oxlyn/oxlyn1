@@ -1,7 +1,7 @@
 ---
 title: "Tailwind CSS 实战入门 · 第 2 章：核心原子类"
 description: "间距缩放表的规律、颜色阶梯体系、排版三件套，以及任意值的克制用法。"
-publishDate: 2026-08-02T09:00:00
+publishDate: 2026-07-21T09:00:00
 tags: ["tailwindcss", "css", "教程"]
 ---
 

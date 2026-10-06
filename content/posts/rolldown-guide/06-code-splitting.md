@@ -1,7 +1,7 @@
 ---
 title: "Rolldown 入门 · 第 6 章：代码分割"
 description: "自动分割的语义、advancedChunks 对 manualChunks 的继承与超越、chunk 归属的判断。"
-publishDate: 2026-06-19T09:00:00
+publishDate: 2026-06-07T09:00:00
 tags: ["rolldown", "vite", "前端工程化", "教程"]
 ---
 

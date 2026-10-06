@@ -1,7 +1,7 @@
 ---
 title: "鸿蒙应用开发 · 第 5 章：后台任务与通知"
 description: "短时/长时/延迟三类后台任务的申请与边界，通知授权与发布、进度通知的完整流程。"
-publishDate: 2026-07-12T09:00:00
+publishDate: 2026-06-30T09:00:00
 tags: ["harmonyos", "arkts", "教程"]
 ---
 

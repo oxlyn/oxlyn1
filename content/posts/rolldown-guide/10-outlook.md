@@ -1,7 +1,7 @@
 ---
 title: "Rolldown 入门 · 第 10 章：生态与展望"
 description: "VoidZero 的统一工具链版图、HMR 原生化方向，以及'该不该跟进'的决策框架。"
-publishDate: 2026-06-23T09:00:00
+publishDate: 2026-06-11T09:00:00
 tags: ["rolldown", "vite", "前端工程化", "教程"]
 ---
 

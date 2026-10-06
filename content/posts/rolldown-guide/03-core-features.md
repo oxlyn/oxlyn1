@@ -1,7 +1,7 @@
 ---
 title: "Rolldown 入门 · 第 3 章：核心特性"
 description: "转换、解析、interop、define/inject：取代 esbuild 的那部分能力盘点。"
-publishDate: 2026-06-16T09:00:00
+publishDate: 2026-06-04T09:00:00
 tags: ["rolldown", "vite", "前端工程化", "教程"]
 ---
 

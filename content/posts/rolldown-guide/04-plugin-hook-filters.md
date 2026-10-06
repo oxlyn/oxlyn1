@@ -1,7 +1,7 @@
 ---
 title: "Rolldown 入门 · 第 4 章：插件钩子过滤器"
 description: "hook filter：把'要不要处理'的判断下沉到 Rust 侧，消掉 JS↔Rust 桥接开销。"
-publishDate: 2026-06-17T09:00:00
+publishDate: 2026-06-05T09:00:00
 tags: ["rolldown", "vite", "前端工程化", "教程"]
 ---
 

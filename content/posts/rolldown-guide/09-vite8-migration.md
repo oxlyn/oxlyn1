@@ -1,7 +1,7 @@
 ---
 title: "Rolldown 入门 · 第 9 章：升级 Vite 8 实战"
 description: "默认引擎时代的迁移清单：装饰器风险项、插件兼容排查、性能验收与回滚预案。"
-publishDate: 2026-06-22T09:00:00
+publishDate: 2026-06-10T09:00:00
 tags: ["rolldown", "vite", "前端工程化", "教程"]
 ---
 

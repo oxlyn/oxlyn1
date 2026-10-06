@@ -1,7 +1,7 @@
 ---
 title: "Vite 工程化入门 · 第 7 章：别名与类型"
 description: "resolve.alias 与 tsconfig paths 的双轨配合、vite/client 类型、环境差异的自查清单。"
-publishDate: 2026-06-08T09:00:00
+publishDate: 2026-05-27T09:00:00
 tags: ["vite", "前端工程化", "教程"]
 ---
 

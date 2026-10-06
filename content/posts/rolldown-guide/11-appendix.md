@@ -1,7 +1,7 @@
 ---
 title: "Rolldown 入门 · 附录：命令与配置速查"
 description: "Rolldown CLI、配置项、rolldown-vite 开关与报错关键词一页速查，附资源链接。"
-publishDate: 2026-06-24T09:00:00
+publishDate: 2026-06-12T09:00:00
 tags: ["rolldown", "vite", "前端工程化", "教程"]
 ---
 
