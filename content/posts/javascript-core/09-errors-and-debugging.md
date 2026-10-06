@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 核心入门 · 第 9 章：错误处理与调试"
 description: "try/catch 的适用边界、异步错误的捕获时机、自定义 Error 与一套定位问题的调试流程。"
-publishDate: 2026-06-22T09:00:00
+publishDate: 2026-06-10T09:00:00
 tags: ["javascript", "教程"]
 ---
 

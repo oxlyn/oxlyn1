@@ -1,7 +1,7 @@
 ---
 title: "Tailwind CSS 实战入门 · 第 4 章：状态与变体"
 description: "hover/focus/active/disabled 五件套、变体叠加的读写规则、group 与 peer 的兄弟联动。"
-publishDate: 2026-08-16T09:00:00
+publishDate: 2026-08-04T09:00:00
 tags: ["tailwindcss", "css", "教程"]
 ---
 

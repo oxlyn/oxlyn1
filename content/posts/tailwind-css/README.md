@@ -1,7 +1,7 @@
 ---
 title: "Tailwind CSS 实战入门：原子类驱动的界面开发"
 description: "Tailwind CSS 系列教程总览：原子类思想、响应式与暗色、主题定制、插件生态与生产实践。"
-publishDate: 2026-08-24T09:00:00
+publishDate: 2026-08-12T09:00:00
 tags: ["tailwindcss", "css", "教程"]
 ---
 

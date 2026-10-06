@@ -1,7 +1,7 @@
 ---
 title: "CSS 核心入门 · 第 1 章：盒模型与单位"
 description: "一切皆盒子：box-sizing 的救赎、margin 折叠、长度单位的选用矩阵。"
-publishDate: 2026-08-01T09:00:00
+publishDate: 2026-07-20T09:00:00
 tags: ["css", "教程"]
 ---
 

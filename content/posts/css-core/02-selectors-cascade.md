@@ -1,7 +1,7 @@
 ---
 title: "CSS 核心入门 · 第 2 章：选择器与层叠"
 description: "特异性计算器、继承与初始值、@layer 决胜规则——理解'为什么这条规则没生效'。"
-publishDate: 2026-08-02T09:00:00
+publishDate: 2026-07-21T09:00:00
 tags: ["css", "教程"]
 ---
 

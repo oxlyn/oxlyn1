@@ -1,7 +1,7 @@
 ---
 title: "Tailwind CSS 实战入门 · 附录：速查与资源"
 description: "常用原子类与指令一页速查，附十条团队规范与官方资源、站内对照索引。"
-publishDate: 2026-08-23T09:00:00
+publishDate: 2026-08-11T09:00:00
 tags: ["tailwindcss", "css", "教程"]
 ---
 

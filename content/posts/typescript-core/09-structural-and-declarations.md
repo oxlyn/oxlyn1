@@ -1,7 +1,7 @@
 ---
 title: "TypeScript 核心入门 · 第 9 章：结构化类型与声明合并"
 description: "TS 兼容性只看形状：多余属性检查的攻防，declare module 的扩展手法与真实用法。"
-publishDate: 2026-07-04T09:00:00
+publishDate: 2026-06-22T09:00:00
 tags: ["typescript", "教程"]
 ---
 

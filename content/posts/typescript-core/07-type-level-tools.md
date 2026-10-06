@@ -1,7 +1,7 @@
 ---
 title: "TypeScript 核心入门 · 第 7 章：类型级工具"
 description: "typeof/keyof/索引访问三大运算符、映射类型原理，以及内置工具类型的实现拆解。"
-publishDate: 2026-07-02T09:00:00
+publishDate: 2026-06-20T09:00:00
 tags: ["typescript", "教程"]
 ---
 

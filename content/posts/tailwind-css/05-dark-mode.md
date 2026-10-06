@@ -1,7 +1,7 @@
 ---
 title: "Tailwind CSS 实战入门 · 第 5 章：暗色模式"
 description: "media 与 class 两种流派、data-theme 自定义变体、CSS 变量 token 法——本站方案全解。"
-publishDate: 2026-08-17T09:00:00
+publishDate: 2026-08-05T09:00:00
 tags: ["tailwindcss", "css", "教程"]
 ---
 

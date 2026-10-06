@@ -1,7 +1,7 @@
 ---
 title: "TypeScript 核心入门 · 第 1 章：为什么与怎么跑"
 description: "类型层的心智模型：编译期检查、运行时擦除，tsc 与 tsx 的分工，strict 模式逐项开启。"
-publishDate: 2026-06-26T09:00:00
+publishDate: 2026-06-14T09:00:00
 tags: ["typescript", "教程"]
 ---
 

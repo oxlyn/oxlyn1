@@ -1,7 +1,7 @@
 ---
 title: "Tailwind CSS 实战入门 · 第 1 章：原子类思想与环境"
 description: "utility-first 的理念与代价、v4 的接入方式，以及从写 CSS 到组合类名的思维转换。"
-publishDate: 2026-08-13T09:00:00
+publishDate: 2026-08-01T09:00:00
 tags: ["tailwindcss", "css", "教程"]
 ---
 

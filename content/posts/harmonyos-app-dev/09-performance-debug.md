@@ -1,7 +1,7 @@
 ---
 title: "鸿蒙应用开发 · 第 9 章：性能与调试"
 description: "HiLog 规范埋点、DevEco Profiler 定位卡顿与内存、启动优化与组件复用的实战清单。"
-publishDate: 2026-07-28T09:00:00
+publishDate: 2026-07-16T09:00:00
 tags: ["harmonyos", "arkts", "教程"]
 ---
 

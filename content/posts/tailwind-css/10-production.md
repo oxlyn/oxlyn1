@@ -1,7 +1,7 @@
 ---
 title: "Tailwind CSS 实战入门 · 第 10 章：生产实践"
 description: "类名检测机制与动态类名陷阱、编译产物、优先级治理与本站 unlayered CSS 实例。"
-publishDate: 2026-08-22T09:00:00
+publishDate: 2026-08-10T09:00:00
 tags: ["tailwindcss", "css", "教程"]
 ---
 

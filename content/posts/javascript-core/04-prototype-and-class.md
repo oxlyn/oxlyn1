@@ -1,7 +1,7 @@
 ---
 title: "JavaScript 核心入门 · 第 4 章：原型与 class"
 description: "class 是语法糖，原型链才是本体：构造、继承、私有字段，以及组合优于继承的工程判断。"
-publishDate: 2026-06-17T09:00:00
+publishDate: 2026-06-05T09:00:00
 tags: ["javascript", "教程"]
 ---
 

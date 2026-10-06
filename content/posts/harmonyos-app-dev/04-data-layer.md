@@ -1,7 +1,7 @@
 ---
 title: "鸿蒙应用开发 · 第 4 章：数据层架构"
 description: "用 Repository 模式把网络、数据库、Preferences 收口成单一数据源，UI 只认状态。"
-publishDate: 2026-07-23T09:00:00
+publishDate: 2026-07-11T09:00:00
 tags: ["harmonyos", "arkts", "教程"]
 ---
 

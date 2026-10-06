@@ -1,7 +1,7 @@
 ---
 title: "Tailwind CSS 实战入门 · 第 9 章：插件生态"
 description: "typography 插件的 prose 体系与两场真实战役：65ch 宽度陷阱与装饰反引号。"
-publishDate: 2026-08-21T09:00:00
+publishDate: 2026-08-09T09:00:00
 tags: ["tailwindcss", "css", "教程"]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "CSS 核心入门 · 第 7 章：文字与颜色"
 description: "字体栈与行高的排版纪律、oklch 现代色彩空间——把可读性写进系统。"
-publishDate: 2026-08-07T09:00:00
+publishDate: 2026-07-26T09:00:00
 tags: ["css", "教程"]
 ---
 
