@@ -26,12 +26,11 @@ function compareByFilename(
 ): number {
 	const fa = a.id.split("/").pop()!;
 	const fb = b.id.split("/").pop()!;
-	const ka = sortKey(fa);
-	const kb = sortKey(fb);
-	for (let i = 0; i < 3; i++) {
-		if (ka[i] < kb[i]) return -1;
-		if (ka[i] > kb[i]) return 1;
-	}
+	const [aGroup, aNum, aName] = sortKey(fa);
+	const [bGroup, bNum, bName] = sortKey(fb);
+	if (aGroup !== bGroup) return aGroup - bGroup;
+	if (aNum !== bNum) return aNum - bNum;
+	if (aName !== bName) return aName < bName ? -1 : 1;
 	return 0;
 }
 

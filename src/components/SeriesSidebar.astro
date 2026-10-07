@@ -21,9 +21,10 @@ const title = seriesTitle(posts, seriesSlug);
 // 列表项只显示章节标题，剥掉重复的系列前缀
 // "从 0 开始实现一个 Coding Agent · 第 3 章：流式输出" → "第 3 章：流式输出"
 // "从 0 开始实现一个 Coding Agent：教程总览" → "教程总览"
-// limit=2 只切第一段（系列前缀），保留章节标题内的：
+// 只切第一个分隔符，其后内容（含章节标题里的 ：）原样保留；
+// 不能用 split(sep, 2)——limit 是截断结果数组，会把章节内容截掉
 function displayName(raw: string): string {
-	return raw.split(/\s*[·：]\s*/, 2)[1] ?? raw;
+	return raw.replace(/^[^·：]*[·：]\s*/, "");
 }
 
 const idx = posts.findIndex((p) => p.id === currentId);
